@@ -8,7 +8,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/itemdb
     username: root
-    password: Hacker@anuj001
+    password: 
   jpa:
     hibernate:
       ddl-auto: update
